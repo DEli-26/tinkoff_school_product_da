@@ -43,5 +43,5 @@
 |№|Название|Описание|Инструменты|
 |-|--------|--------|-----------|
 |1|Тинькофф квест|Подключение к удаленной БД, выгрузка из нее датасета. Анализ и визуализация данных. Расчет воронок продаж.|datetime, matplotlib, numpy, pandas, psycopg2, seaborn|
-|2|A/B-тесты|...|numpy, pandas, plotly, random, seaborn, matplotlib, scipy, statsmodels, phik, hyppo|
+|2|A/B-тесты|Определены целевая, прокси и guardrall метрики. Сформулированы гипотезы, проведены А/А и А/В тесты при помощи ТГ-бота|numpy, pandas, plotly, random, seaborn, matplotlib, scipy, statsmodels, phik, hyppo|
 |3|Логистическая регрессия и случайный лес|На сгенерированных данных проведен анализ важности признаков (WoE) и выполнено их преобразование. Построены логистическая регрессия и случайный лес.|numpy, pandas, sklearn, scipy, seaborn, matplotlib, optuna, phik|
